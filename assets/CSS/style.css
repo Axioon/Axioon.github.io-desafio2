@@ -1,0 +1,80 @@
+body{
+  background-color: black;
+  margin: 0%;
+  max-width: 100%;
+  min-width: 320px;
+  
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  }
+
+h3{
+  font-style:italic;
+  }
+p{
+  font-style:italic;    
+}
+
+img{
+  border: 0%;
+  margin: 0%;
+  size: 2em;
+}
+div {  
+  width: 100%;
+  padding: 10%;
+}  
+
+.class1{
+  background-image: url(../imgs/choco1.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 0em;
+  padding: cover;
+  height: 3em;
+}
+
+.class2{
+  background-color:bisque;
+  background-size:cover ; 
+}
+
+.paragraph{
+  font-size:1em;
+  font-style: italic;
+  color: rgba(237, 199, 102, 0.884);
+  display:inline;
+  background-color: rgba(146, 80, 129, 0.884);
+  width: 100%;  
+}
+
+.title1{
+  font-size: 3em;
+  font-style: italic;
+  color: rgba(243, 84, 219, 0.697);
+  background-color: rgba(7, 8, 5, 0.464);
+  display:inline;
+  text-align: left;
+  margin: 50px;
+}
+
+.imgs{
+  height: 200px;
+  width: 400px;
+  margin: 20px; 
+}
+
+.foot{
+  background-color: black;
+  height: cover;
+  width: cover;
+
+}
+
+.paragraph2{
+  color:rgba(241, 95, 219, 0.849) ;
+  font-size:1em;
+  font-style:italic;
+  text-align: center;
+}
